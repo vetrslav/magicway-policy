@@ -1,0 +1,1 @@
+# magicway-policy
